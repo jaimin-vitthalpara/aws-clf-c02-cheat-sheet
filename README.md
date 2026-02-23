@@ -1,6 +1,6 @@
 # AWS CLF-C02 Cheat Sheet ☁️
 
-A clear, structured, and practical cheat sheet for the **AWS Certified Cloud Practitioner (CLF-C02)** exam — designed for quick revision and strong conceptual understanding.
+A clear, structured, and practical cheat sheet for the **AWS Certified Cloud Practitioner (CLF-C02)** exam, designed for quick revision and strong conceptual understanding.
 
 This resource brings together core AWS services, cloud concepts, pricing models, security fundamentals, and key frameworks in a simple and connected format.
 
