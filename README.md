@@ -37,7 +37,7 @@ This resource brings together core AWS services, cloud concepts, pricing models,
 ## 📥 Download the Cheat Sheet
 
 The complete PDF is available here:  
-👉 **[Add your download link here]**
+👉 **https://github.com/jaimin-vitthalpara/aws-clf-c02-cheat-sheet.git**
 
 ---
 
